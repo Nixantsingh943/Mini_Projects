@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
 
-A collection of small yet powerful **Node.js command-line applications** built by **Nishant Sing**.  
+A collection of small yet powerful **Node.js command-line applications** built by **Nishant Singh**.  
 Each project focuses on learning and exploring Node.js fundamentals — from file handling to API calls — all through fun and practical mini apps.
 
 ---
