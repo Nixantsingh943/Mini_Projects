@@ -156,7 +156,7 @@ mini_projects/
 
 ---
 
-## 👨‍💻 Author
+##  👨‍💻 Author
 
 **Nishant Singh**
 Beginner Node.js Developer | Learning by Building
@@ -166,7 +166,7 @@ Beginner Node.js Developer | Learning by Building
 
 
 
-##📜 License
+## 📜 License
 ```
 This project is licensed under the MIT License
 ```
