@@ -1,10 +1,6 @@
 # Mini_Projects
-Perfect 👍 Thanks, Nishant!
-Here’s your complete, **GitHub-ready `README.md`** for your repository `mini_projects` — clean, professional, and well-formatted with badges, sections, and everything you need 👇
 
----
 
-````markdown
 # 🧠 Node.js Mini Projects Collection
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
