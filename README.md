@@ -21,6 +21,7 @@ Each project focuses on learning and exploring Node.js fundamentals — from fil
 - [📚 Learning Goals](#-learning-goals)
 - [💡 Future Plans](#-future-plans)
 - [👨‍💻 Author](#-author)
+- [📜 License](#-license)
 
 
 ---
