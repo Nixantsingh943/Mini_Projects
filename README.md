@@ -162,11 +162,12 @@ Beginner Node.js Developer | Learning by Building
 🔗 [GitHub](https://github.com/Nixantsingh943)
 
 
+
+
+```
+📜 License
+
+This project is licensed under the MIT License
+```
 ⭐ **If you find these projects helpful, don’t forget to star the repo!**
 
-```
-
----
-
-
-```
