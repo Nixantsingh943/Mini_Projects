@@ -83,8 +83,6 @@ node jokes.js
 ### 4. 🧩 More Projects Coming Soon
 
 Additional CLI tools and Node.js experiments such as:
-
-* Weather CLI App 🌦️
 * Quote Generator ✍️
 * Notes Manager 🗒️
 * File Organizer 📁
@@ -131,6 +129,9 @@ mini_projects/
 │
 ├── random-joke/
 │   └── jokes.js
+│  
+├── Weather-cli-app/
+│   └── weather.js
 │
 └── README.md
 ```
